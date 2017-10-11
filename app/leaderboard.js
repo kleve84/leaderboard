@@ -1,3 +1,5 @@
+//http://courses.ics.hawaii.edu/ics314f17/morea/meteor-1/inclass-meteor-leaderboard.html
+
 PlayersList = new Mongo.Collection('players');
 
 if (Meteor.isClient) {
